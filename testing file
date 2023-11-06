@@ -6,3 +6,5 @@ CREATE TABLE Employees (
     Department VARCHAR(50),
     Salary DECIMAL(10, 2)
 );
+
+DESCRIBE Employees;
