@@ -8,3 +8,4 @@ CREATE TABLE Employees (
 );
 
 DESCRIBE Employees;
+DESCRIBE Employees;
